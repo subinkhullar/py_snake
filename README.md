@@ -11,6 +11,6 @@ Screenshots from the Game:
 
 ![image](https://user-images.githubusercontent.com/89964333/192685031-d7b3e923-9674-484a-b750-56b3eddb34fa.png)
 
-![image](https://user-images.githubusercontent.com/89964333/192685273-2e143e7b-4e8a-46dd-8425-297fb09a6e42.png)
+![image](https://user-images.githubusercontent.com/89964333/192685759-480b1e1a-676d-4993-9e5d-58cc8f2e9192.png)
 
 ![image](https://user-images.githubusercontent.com/89964333/192685360-e8143ea4-83c3-46ff-93f7-1cc253eb75d3.png)
